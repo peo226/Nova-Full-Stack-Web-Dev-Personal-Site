@@ -1,6 +1,6 @@
 # Personal Portfolio
  
-**Live site:** [https://peo226.github.io/YOUR-REPO/ ](https://peo226.github.io/Nova-Full-Stack-Web-Dev-Personal-Site/)
+**Live site:** [my website on github ](https://peo226.github.io/Nova-Full-Stack-Web-Dev-Personal-Site/)
  
 ## Deploy (GitHub Pages)
 1. Push the webpage folder to a GitHub repo.
